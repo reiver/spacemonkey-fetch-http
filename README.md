@@ -1,4 +1,4 @@
-# spacemonkey-retch-http
+# spacemonkey-fetch-http
 
 fetch via HTTP for spacemonkey
 
